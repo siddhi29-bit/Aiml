@@ -1,0 +1,21 @@
+post_id,caption,hashtags,type
+p1,This is the caption for post 1,#fitness,video
+p2,This is the caption for post 2,#foodie,carousel
+p3,This is the caption for post 3,#techlife,carousel
+p4,This is the caption for post 4,#foodie,carousel
+p5,This is the caption for post 5,#travel,carousel
+p6,This is the caption for post 6,#style,image
+p7,This is the caption for post 7,#travel,video
+p8,This is the caption for post 8,#style,video
+p9,This is the caption for post 9,#musiclover,video
+p10,This is the caption for post 10,#travel,image
+p11,This is the caption for post 11,#fitness,carousel
+p12,This is the caption for post 12,#musiclover,carousel
+p13,This is the caption for post 13,#naturephotography,carousel
+p14,This is the caption for post 14,#musiclover,carousel
+p15,This is the caption for post 15,#techlife,video
+p16,This is the caption for post 16,#foodie,carousel
+p17,This is the caption for post 17,#artdaily,carousel
+p18,This is the caption for post 18,#naturephotography,carousel
+p19,This is the caption for post 19,#style,image
+p20,This is the caption for post 20,#techlife,carousel

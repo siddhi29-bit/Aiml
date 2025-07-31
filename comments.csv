@@ -1,0 +1,21 @@
+comment_id,user_id,post_id,text,label
+c1,u9,p1,winner,spam
+c2,u5,p19,buy now,spam
+c3,u6,p10,free,spam
+c4,u4,p12,free,spam
+c5,u10,p15,free,spam
+c6,u7,p9,urgent,spam
+c7,u9,p20,click this link,spam
+c8,u7,p17,This is inspiring,ham
+c9,u1,p17,Thanks for sharing!,ham
+c10,u1,p20,Nice work!,ham
+c11,u9,p12,This is inspiring,ham
+c12,u9,p7,This is inspiring,ham
+c13,u4,p2,Great post!,ham
+c14,u9,p3,Incredible,ham
+c15,u3,p17,So beautiful,ham
+c16,u7,p5,Incredible,ham
+c17,u6,p17,I love this,ham
+c18,u8,p17,Great post!,ham
+c19,u9,p17,Thanks for sharing!,ham
+c20,u5,p2,Great post!,ham
